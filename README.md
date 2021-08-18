@@ -13,4 +13,4 @@ User knowledge dataset (Kahraman, 2013) is about developing intuitive knowledge 
 
 The dataset is avaliable here: https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling
 
-Group members - Jasmeher (me), Yuxin, Krish, Rupert
+Group members - Krish, Jasmeher, Yuxin, Rupert
